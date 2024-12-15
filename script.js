@@ -7,7 +7,7 @@ function menuWrapper() {
       full.style.top = 0;
       flag = 1;
     } else {
-      full.style.top = "-100%";
+      full.style.top = "-110%";
       flag = 0;
     }
   });
